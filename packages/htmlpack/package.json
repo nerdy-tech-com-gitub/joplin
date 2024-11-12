@@ -15,7 +15,7 @@
   "license": "MIT",
   "dependencies": {
     "@adobe/css-tools": "4.3.3",
-    "@joplin/fork-htmlparser2": "^4.1.52",
+    "@joplin/fork-htmlparser2": "^4.1.9",
     "datauri": "4.1.0",
     "fs-extra": "11.2.0",
     "html-entities": "1.4.0"
